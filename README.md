@@ -1,5 +1,5 @@
 # Development
-This page is created to hold a compilation of CCST 102 activities
+This page is created to hold a compilation of CSST 102 activities
 
 # Activities
 - Exercise 1 [Link](https://www.youtube.com/watch?v=f5_wn8mexmM&list=RDf5_wn8mexmM&index=1)
