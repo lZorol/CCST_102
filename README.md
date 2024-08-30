@@ -2,7 +2,7 @@
 This page is created to hold a compilation of CSST 102 activities
 
 # Activities
-- Exercise 1 [Link](https://www.youtube.com/watch?v=f5_wn8mexmM&list=RDf5_wn8mexmM&index=1)
+- Laboratory Activity 1 (August 28, 2024) [Link](https://github.com/lZorol/CSST_102/blob/main/Projects/LabAct_1.md)
 
 This is the compilations of all the activities.
 
