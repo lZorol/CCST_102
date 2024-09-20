@@ -2,7 +2,7 @@
 This page is created to hold a compilation of CSST 102 activities
 
 # Activities
-- Laboratory Activity 1 (August 28, 2024) [Link](https://github.com/lZorol/CSST_102/blob/main/Projects/LabAct_1.md)
+- Machine Problem 1 (September 04, 2024) [Link](https://github.com/lZorol/CSST_102/blob/main/Activities/3B-ARAT-MP1/3B-ARAT-MP1.md)
 
 This is the compilations of all the activities.
 
