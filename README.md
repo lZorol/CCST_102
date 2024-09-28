@@ -6,6 +6,7 @@ This page is created to hold a compilation of CSST 102 activities
 - Exercise 1 (September 04, 2024) [Link](https://github.com/lZorol/CSST_102/blob/main/Activities/3B-ARAT-EXER1/3B-ARAT-EXER1.ipynb)
 - Machine Problem 2 (September 04, 2024) [Link](https://github.com/lZorol/CSST_102/blob/main/Activities/3B-ARAT-MP2/3B-ARAT-MP2.ipynb)
 - Exercise 2 (September 16, 2024) [Link](https://github.com/lZorol/CSST_102/blob/main/Activities/3B-ARAT-EXER2/3B-ARAT-EXER2.ipynb)
+- Machine Problem 3 (September 16, 2024) [Link](https://github.com/lZorol/CSST_102/blob/main/Activities/3B-ARAT-MP3/3B-ARAT-MP3.ipynb)
 
 This is the compilations of all the activities.
 
